@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/ingress-nginx/controller:v0.48.1
+FROM k8s.gcr.io/ingress-nginx/controller:v1.0.0-alpha.2
 MAINTAINER wuhuan
