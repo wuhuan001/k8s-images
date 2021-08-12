@@ -1,1 +1,2 @@
-FROM kube-controller-manager-amd64:v1.18.5
+FROM k8s.gcr.io/ingress-nginx/controller:v0.48.1
+MAINTAINER wuhuan
